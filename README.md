@@ -11,5 +11,5 @@
 
  - 确定你是一个爱写博,爱分享的blogger
  - 加入我们内部讨论QQ群：391519124
- - 在此页面的右边点击"New Page",添加你的个人信息
+ - 在[Wiki主页](https://github.com/crazyacking/engineer-blogger-communication-Wiki/wiki)的右边点击"New Page",添加你的个人信息
  - 发布博文,分享链接
